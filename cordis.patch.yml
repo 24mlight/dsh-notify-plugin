@@ -1,0 +1,4 @@
+# dsh-notify bundle patch: mounts the notice plugin into the profile.
+- insert:
+    - id: notify
+      name: dsh-notify
